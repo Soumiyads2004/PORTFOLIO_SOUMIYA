@@ -29,5 +29,5 @@ For cleaning of the data I have removed all the null values,errors, etc.
 The Dashboard looks like this-
 ![ACTUAL DASH](https://github.com/user-attachments/assets/3ab61f37-39ff-4d80-9e68-bf0bd2c4b2b8)
 
-When you click on a certain song the deatials of the song can be viewed in the dashboard-
+When you click on a certain song the details of the song can be viewed in the dashboard-
 ![CRUEL_ANALYSIS](https://github.com/user-attachments/assets/3a5e10e9-77df-4e48-beee-136b1c912896)
