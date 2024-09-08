@@ -27,7 +27,7 @@ For cleaning of the data I have removed all the null values,errors, etc.
 ![cleaning in power query](https://github.com/user-attachments/assets/77835359-e341-49e6-96e6-8fe16d43862d)
 
 The Dashboard looks like this-
-![ACTUAL DASH](https://github.com/user-attachments/assets/ca2e9790-68cf-489f-8f70-5ac40408dc39)
+![ACTUAL DASH](https://github.com/user-attachments/assets/3ab61f37-39ff-4d80-9e68-bf0bd2c4b2b8)
 
 When you click on a certain song the deatials of the song can be viewed in the dashboard-
 ![CRUEL_ANALYSIS](https://github.com/user-attachments/assets/3a5e10e9-77df-4e48-beee-136b1c912896)
